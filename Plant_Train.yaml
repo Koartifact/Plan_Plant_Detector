@@ -1,0 +1,11 @@
+train: /content/dataset/images/train/
+val: /content/dataset/images/val/
+
+# Classes
+nc: 2 # number of classes
+names: ['0T','1T'] # class names
+
+################################
+# 0T = 토마토 정상
+# 1T = 토마토 잎마름병
+################################
